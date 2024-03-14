@@ -5,7 +5,7 @@ def lines(i):
         print("....................")
 
 print("This tool will help you schedule shutdowns!")
-print("Please choose when you want to schedule (Write in minutes)")
+print("Please choose when you want to schedule")
 lines(1)
 
 print("Type 1 for instant shutdown")
